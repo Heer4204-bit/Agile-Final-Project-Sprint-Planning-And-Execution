@@ -1,0 +1,107 @@
+
+{
+  "project": "Agile Final Project - Sprint Planning & Execution",
+  "description": "Agile task management and sprint execution data",
+  "tasks": [
+    {
+      "id": "TASK-001",
+      "title": "Project Setup",
+      "description": "Define project scope and initialize the repository.",
+      "priority": "High",
+      "status": "Done",
+      "sprintId": "SPRINT-01",
+      "assignedTo": "Project Team",
+      "category": "Planning"
+    },
+    {
+      "id": "TASK-002",
+      "title": "Requirements Analysis",
+      "description": "Identify project requirements and objectives.",
+      "priority": "High",
+      "status": "Done",
+      "sprintId": "SPRINT-01",
+      "assignedTo": "Project Team",
+      "category": "Analysis"
+    },
+    {
+      "id": "TASK-003",
+      "title": "Product Backlog Creation",
+      "description": "Prepare and prioritize project user stories.",
+      "priority": "High",
+      "status": "Done",
+      "sprintId": "SPRINT-01",
+      "assignedTo": "Product Owner",
+      "category": "Backlog Management"
+    },
+    {
+      "id": "TASK-004",
+      "title": "Sprint Planning",
+      "description": "Define sprint goals and select backlog items.",
+      "priority": "High",
+      "status": "In Progress",
+      "sprintId": "SPRINT-02",
+      "assignedTo": "Scrum Team",
+      "category": "Planning"
+    },
+    {
+      "id": "TASK-005",
+      "title": "Task Management",
+      "description": "Organize and manage project development tasks.",
+      "priority": "High",
+      "status": "To Do",
+      "sprintId": "SPRINT-02",
+      "assignedTo": "Development Team",
+      "category": "Development"
+    },
+    {
+      "id": "TASK-006",
+      "title": "Agile Dashboard Design",
+      "description": "Create a structured project monitoring interface.",
+      "priority": "Medium",
+      "status": "To Do",
+      "sprintId": "SPRINT-03",
+      "assignedTo": "Development Team",
+      "category": "UI Design"
+    },
+    {
+      "id": "TASK-007",
+      "title": "Sprint Progress Tracking",
+      "description": "Monitor sprint tasks and completion progress.",
+      "priority": "Medium",
+      "status": "To Do",
+      "sprintId": "SPRINT-03",
+      "assignedTo": "Scrum Team",
+      "category": "Monitoring"
+    },
+    {
+      "id": "TASK-008",
+      "title": "Project Testing",
+      "description": "Review functionality and identify potential issues.",
+      "priority": "High",
+      "status": "To Do",
+      "sprintId": "SPRINT-04",
+      "assignedTo": "Testing Team",
+      "category": "Testing"
+    },
+    {
+      "id": "TASK-009",
+      "title": "Sprint Review",
+      "description": "Evaluate sprint deliverables and collect feedback.",
+      "priority": "Medium",
+      "status": "To Do",
+      "sprintId": "SPRINT-04",
+      "assignedTo": "Scrum Team",
+      "category": "Review"
+    },
+    {
+      "id": "TASK-010",
+      "title": "Project Documentation",
+      "description": "Finalize project documentation and reports.",
+      "priority": "Medium",
+      "status": "To Do",
+      "sprintId": "SPRINT-04",
+      "assignedTo": "Project Team",
+      "category": "Documentation"
+    }
+  ]
+}
