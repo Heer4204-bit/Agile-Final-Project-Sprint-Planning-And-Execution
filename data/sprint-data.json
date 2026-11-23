@@ -1,0 +1,82 @@
+
+{
+  "project": "Agile Final Project - Sprint Planning & Execution",
+  "methodology": "Agile Scrum",
+  "sprintDuration": "2 weeks",
+  "sprints": [
+    {
+      "id": "SPRINT-01",
+      "name": "Sprint 1 - Project Setup",
+      "goal": "Establish the project foundation and define requirements.",
+      "status": "Completed",
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-14",
+      "taskIds": [
+        "TASK-001",
+        "TASK-002",
+        "TASK-003"
+      ],
+      "progress": 100,
+      "deliverables": [
+        "Project Repository",
+        "Project Scope",
+        "Initial Product Backlog"
+      ]
+    },
+    {
+      "id": "SPRINT-02",
+      "name": "Sprint 2 - Sprint Planning",
+      "goal": "Organize project tasks and establish sprint objectives.",
+      "status": "In Progress",
+      "startDate": "2026-11-15",
+      "endDate": "2026-11-28",
+      "taskIds": [
+        "TASK-004",
+        "TASK-005"
+      ],
+      "progress": 50,
+      "deliverables": [
+        "Sprint Plan",
+        "Prioritized Tasks",
+        "Sprint Backlog"
+      ]
+    },
+    {
+      "id": "SPRINT-03",
+      "name": "Sprint 3 - Development",
+      "goal": "Develop project interface and implement task tracking.",
+      "status": "Not Started",
+      "startDate": "2026-11-29",
+      "endDate": "2026-12-12",
+      "taskIds": [
+        "TASK-006",
+        "TASK-007"
+      ],
+      "progress": 0,
+      "deliverables": [
+        "Agile Dashboard",
+        "Task Tracking",
+        "Progress Monitoring"
+      ]
+    },
+    {
+      "id": "SPRINT-04",
+      "name": "Sprint 4 - Review & Improvement",
+      "goal": "Test the project, review results and finalize documentation.",
+      "status": "Not Started",
+      "startDate": "2026-12-13",
+      "endDate": "2026-12-26",
+      "taskIds": [
+        "TASK-008",
+        "TASK-009",
+        "TASK-010"
+      ],
+      "progress": 0,
+      "deliverables": [
+        "Testing Report",
+        "Sprint Review",
+        "Final Documentation"
+      ]
+    }
+  ]
+}
