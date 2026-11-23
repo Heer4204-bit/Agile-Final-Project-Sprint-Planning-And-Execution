@@ -1,4 +1,4 @@
-# Agile Final Project – Sprint Planning & Execution
+# Agile Final Project – Sprint Planning & Execution 👾
 
 <p align="center">
   <img src="https://img.shields.io/badge/AGILE-PROJECT-blue?style=for-the-badge&logo=scrumalliance&logoColor=white" />
@@ -37,12 +37,19 @@ It aims to provide a structured environment for learning how Agile teams collabo
 - Understand iterative development and continuous improvement.
 
  # Key Features ✨:
+ 
  📋 Product Backlog Management – Organize and prioritize project requirements.
+ 
  🏃 Sprint Planning – Define sprint goals, tasks, and timelines.
+ 
  📊 Task Tracking – Monitor pending, ongoing, and completed activities.
+ 
  🎯 Sprint Goals – Establish clear objectives for each sprint.
+ 
  👥 Team Collaboration – Demonstrate Agile teamwork and responsibilities.
+ 
  📈 Progress Monitoring – Track sprint execution and project progress.
+ 
  🔄 Continuous Improvement – Understand sprint reviews and retrospectives.
 
 Note: These are the intended project capabilities; individual features should be marked complete only after implementation.
@@ -88,31 +95,50 @@ Agile & Scrum| Project Management Methodology
 
 # 🏗️ Project Structure
 Agile-Final-Project-Sprint-Planning-And-Execution/
+
 │
-├── assets/
-│   ├── images/
-│   └── icons/
+
 │
+
 ├── css/
+
 │   └── tailwind.css
+
 │
 ├── js/
+
 │   ├── vanilla.js
+
 │   └── node.js
+
 │
+
 ├── docs/
+
 │   ├── Agile-Methodology.md
+
 │   ├── Sprint-Planning.md
+
 │   ├── Product-Backlog.md
+
 │   └── Project-Documentation.md
+
 │
+
 ├── data/
+
 │   ├── tasks.json
+
 │   └── sprint-data.json
+
 │
+
 ├── index.html
+
 ├── README.md
+
 ├── LICENSE
+
 └── .gitignore
 
 # 💻 Getting Started
