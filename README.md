@@ -1,1 +1,1 @@
-# Agile-Final-Project-Sprint-Planning-And-Execution
+# Agile Final Project – Sprint Planning & Execution
