@@ -156,7 +156,13 @@ cd Agile-Final-Project-Sprint-Planning-And-Execution
 
 # 📸 Screenshots
 
-Screenshots of the project interface, sprint board, and project dashboard will be added here as development progresses.
+<img width="1080" height="1962" alt="18013" src="https://github.com/user-attachments/assets/23b07f03-e51c-4509-9f4f-13884e77849c" />
+
+<img width="1080" height="1938" alt="18011" src="https://github.com/user-attachments/assets/e907052e-79a7-46b4-88a9-cdd5aa4e279a" />
+
+<img width="1080" height="1886" alt="18009" src="https://github.com/user-attachments/assets/c691e3c4-52de-4311-8bb0-8d48b3367cdf" />
+
+<img width="1080" height="1920" alt="18007" src="https://github.com/user-attachments/assets/6e19dad9-67a8-48c6-9fdd-68df730cdee4" />
 
 # 🎓 Learning Outcomes
 Through this project, learners can develop an understanding of:
